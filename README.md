@@ -106,55 +106,56 @@ NOÇÕES DE DIREITO CONSTITUCIONAL
 ```
 ESPECÍFICAS
 ===========
-```
-1. Lógica de programação e estruturas de dados. 
-2. Orientação a Objetos. 
-3. Métodos e técnicas ágeis: 
-	- Scrum, 
-	- XP e 
+
+1. [Lógica de programação](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=2333&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e estruturas de dados. 
+2. [Orientação a Objetos](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=843&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+3. [Métodos e técnicas ágeis](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=3062&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
+	- [Scrum](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=5943&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+	- [XP](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1656&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
 	- kanban; 
 	- levantamento ágil de requisitos: 
 		- users stories e 
 		- product backlog; 
 	- desenvolvimento incremental, entregas contínuas, integração contínua; 
-	- Test Driven Devolopment(TDD) e Behavior Driven Development (BDD); 
+	- [Test Driven Devolopment(TDD) e Behavior Driven Development (BDD)](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=316&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=); 
 	- automação de testes, automação de builds e versionamento de código. 
-4. Qualidade do software.
+4. [Qualidade do software](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=315&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=).
 	- Métricas de qualidade de software. 
 5. Métricas de software: 
-	- análise de pontos de função. 
-6. Modelagem de sistema: 
+	- [análise de pontos de função](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1655&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+6. [Modelagem de sistema](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=2470&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
 	- Diagramas de Casos de Uso, 
 	- Sequência, 
 	- Classes e 
 	- Estados. 
-7. Arquitetura de aplicações para ambiente web. 
+7. Arquitetura de aplicações para ambiente web [1](
+https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1565&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [2](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=2434&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) [3](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=2479&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 8. Desenvolvimento para web: 
-	- Javascript, 
+	- [Javascript](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=942&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
 	- jQuery; 
-	- Java EE: 
-		- JSP, 
+	- [Java EE](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=940&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
+		- [JSP](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=3521&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
 		- AJAX, 
 		- JPA, 
 		- EJB, 
-		- JSF, 
-		- JDBC, 
-		- Hibernate; 
-	- XML, 
-	- HTML5 e
-	- CSS3; 
+		- [JSF](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=5470&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+		- [JDBC](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=2746&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+		- [Hibernate](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=5243&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=); 
+	- [XML](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1421&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+	- [HTML5](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=4358&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e
+	- [CSS3](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=2751&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=); 
 	- Web Services. 
 	- Linguagens de programação: 
-	- Java SE e 
-	- PHP.
+		- [Java SE](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=20849&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+		- [PHP](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=943&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=).
 	Ambientes de desenvolvimento: 
-		- Eclipse e 
+		- [Eclipse](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=20756&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
 		- Oracle APEX. 
-9. XML/XSD. 
+9. [XML/XSD](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1421&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 10. Desenvolvimento para plataforma mobile 
 	- Android e 
 	- IOS. 
-11. Testes de Software: 
+11. [Testes de Software](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=316&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
 	- processo de testes, 
 	- modelos de melhoria,
 	- planejamento, 
@@ -168,14 +169,14 @@ ESPECÍFICAS
 	- práticas de programação segura e 
 	- revisão de código; 
 	- controles e testes de segurança para aplicações web. 
-14. Bancos de dados: 
+14. [Bancos de dados](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=3341&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
 	- Conceitos e fundamentos. 
 	- Noções de administração dos SGBDs 
-		- Oracle, 
-		- PostgreSQL e 
-		- MySQL. 
-	- Linguagem SQL e 
-	- PL/SQL:
+		- [Oracle](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=4535&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+		- [PostgreSQL](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=4879&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+		- [MySQL](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=4970&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+	- [Linguagem SQL](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=4536&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+	- [PL/SQL](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1654&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=):
 	- consultas e subconsultas; 
 	- Gatilho (trigger), 
 	- visão (view), 
@@ -189,27 +190,27 @@ ESPECÍFICAS
 	- Modelo Entidade Relacionamento. 
 	- Normalização. 
 15. Administração de dados. 
-16. Conceitos de Data Warehouse, 
-	- Data Mining e 
-	- OLAP. 
+16. [Conceitos de Data Warehouse](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1825&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+	- [Data Mining](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=4101&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+	- [OLAP](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=4053&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
 17. Redes: 
-	- endereçamento e protocolos da família TCP/IP V4; 
-	- redes sem fio: 
+	- [endereçamento e protocolos da família TCP/IP V4](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=ipv4&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=265&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=); 
+	- [redes sem fio](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=269&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
 		- padrões 802.11, 
 		- protocolos 802.1x, 
 		- EAP, 
 		- WEP, 
 		- WPA e 
 		- WPA2; 
-	- implantação de VOIP e VPN nas modalidades de acesso remoto. 
-18. Gerenciamento de redes TCP/IP e 
+	- implantação de [VOIP](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=2632&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e [VPN](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=2398&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) nas modalidades de acesso remoto. 
+18. [Gerenciamento de redes](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=5566&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) TCP/IP e 
 	- Monitoração; 
 	- Protocolos: 
-		- SNMP,
+		- [SNMP](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=16614&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=),
 		- IPMI, 
-		- MIB, 
+		- [MIB](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=6118&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
 		- RMON; 
-	- Segurança em redes de computadores: 
+	- [Segurança em redes de computadores](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=6564&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
 		- sistemas de segurança: 
 			- firewalls, 
 			- IDS, 
@@ -226,41 +227,41 @@ ESPECÍFICAS
 			- adware, 
 			- keylogger, 
 			- worms. 
-19. Criptografia: 
+19. [Criptografia](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=289&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
 	- conceitos básicos e aplicações; 
 	- noções de criptografia simétrica e assimétrica;
 	- assinatura e certificação digital. 
-20. Sistemas operacionais Linux Red Hat e Windows Server 2012: 
+20. Sistemas operacionais [Linux](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1097&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) Red Hat e [Windows Server 2012](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=20812&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
 	- noções de administração; 
 	- serviços de diretório: 
-		- Active Directory e 
-		- LDAP; 
+		- [Active Directory](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1694&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e 
+		- [LDAP](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=16611&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=); 
 	- servidores de correio eletrônico;
 	- automação: 
 		- Chef e 
 		- Puppet; 
 	- interoperabilidade. 
 21. Administração dos serviços: 
-	- Apache, 
-	- Tomcat, 
-	- JBOSS. 
-22. Cloud Computing: 
+	- [Apache](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1333&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+	- [Tomcat](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=20853&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=), 
+	- [JBOSS](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=5241&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=). 
+22. [Cloud Computing](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=16640&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=): 
 	- conceitos básicos; 
 	- tipologia (IaaS, PaaS, SaaS); 
 	- modelo: privada, pública, híbrida. 
-23. Conceitos de virtualização de máquinas: 
+23. Conceitos de [virtualização](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=1207&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) de máquinas: 
 	- tipos de hipervisor; 
 	- virtualização total e 
 	- paravirtualização. 
-24. Serviços de armazenamento:
+24. [Serviços de armazenamento](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=16636&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=):
 	- Padrões de disco e de interfaces; 
 	- arranjos de discos: 
-		- níveis RAID (0, 5, 10, 50), 
+		- níveis [RAID](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=5882&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) (0, 5, 10, 50), 
 		- JBOD; 
 	- tecnologias de armazenamento: 
 		- DAS, 
-		- NAS e
-		- SAN; 
+		- [NAS](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=4488&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=) e
+		- [SAN](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&todas=on&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=&assunto=16620&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=&sem_desatualizadas=&sem_anuladas_impressao=&sem_desatualizadas_impressao=&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=); 
 	- deduplicação; 
 	- protocolos de armazenamento: 
 		- SMB, 
@@ -301,7 +302,7 @@ ESPECÍFICAS
 	- 27005; 
 	- planejamento, identificação e análise de riscos; 
 	- plano de continuidade de negócio.
-```
+
 LÍNGUA INGLESA: 
 ===============
 ```

@@ -45,7 +45,7 @@ NOÇÕES DE DIREITO ADMINISTRATIVO
 1. Noções de organização administrativa. 
 	1.1 [Centralização, descentralização, concentração](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&nao_resolvidas=true&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=2&assunto=16349&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=true)
 e desconcentração. 
-	1.2 Administração direta e indireta. 
+	1.2 [Administração direta](https://www.qconcursos.com/questoes-de-concursos/questoes/search?utf8=%E2%9C%93&nao_resolvidas=true&q=&instituto=&organizadora=2&prova=&ano_publicacao=&cargo=&escolaridade=3&modalidade=&disciplina=2&assunto=1270&esfera=&area=&nivel_dificuldade=&periodo_de=&periodo_ate=&possui_gabarito_comentado_texto_e_video=&possui_comentarios_gerais=&possui_comentarios=&possui_anotacoes=&sem_dos_meus_cadernos=&sem_anuladas=true&sem_desatualizadas=true&sem_anuladas_impressao=true&sem_desatualizadas_impressao=true&caderno_id=&migalha=&data_comentario_texto=&data=&minissimulado_id=&resolvidas=&resolvidas_certas=&resolvidas_erradas=&nao_resolvidas=true) e indireta. 
 	1.3 Autarquias, fundações, empresas públicas e sociedades de economia mista. 
 2. Ato administrativo. 
 	2.1 Conceito, requisitos, atributos, classificação e espécies. 
